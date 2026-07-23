@@ -12,6 +12,7 @@ Technical training
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MilanM002005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/MilanM002005/DSA/tree/master/0006-zigzag-conversion) |
 ## Dynamic Programming
 |  |
 | ------- |
