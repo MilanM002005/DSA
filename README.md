@@ -21,6 +21,7 @@ Technical training
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MilanM002005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Matrix
 |  |
@@ -33,9 +34,14 @@ Technical training
 ## Hash Table
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MilanM002005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MilanM002005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
