@@ -21,6 +21,7 @@ Technical training
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MilanM002005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Matrix
 |  |
 | ------- |
@@ -29,4 +30,12 @@ Technical training
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MilanM002005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MilanM002005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
