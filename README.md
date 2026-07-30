@@ -11,6 +11,7 @@ Technical training
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MilanM002005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/MilanM002005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/MilanM002005/DSA/tree/master/0006-zigzag-conversion) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -36,6 +37,7 @@ Technical training
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MilanM002005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MilanM002005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -59,4 +61,8 @@ Technical training
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MilanM002005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
