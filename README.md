@@ -8,6 +8,7 @@ Technical training
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MilanM002005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Technical training
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MilanM002005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
@@ -61,6 +63,7 @@ Technical training
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
