@@ -22,11 +22,13 @@ Technical training
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MilanM002005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/MilanM002005/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MilanM002005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
+| [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
@@ -57,6 +59,7 @@ Technical training
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -96,4 +99,8 @@ Technical training
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MilanM002005/DSA/tree/master/0032-longest-valid-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
