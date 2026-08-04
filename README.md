@@ -31,6 +31,7 @@ Technical training
 | [0004-median-of-two-sorted-arrays](https://github.com/MilanM002005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MilanM002005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
@@ -113,4 +114,12 @@ Technical training
 | ------- |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
