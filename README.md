@@ -17,6 +17,7 @@ Technical training
 | [0006-zigzag-conversion](https://github.com/MilanM002005/DSA/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/MilanM002005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/MilanM002005/DSA/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@ Technical training
 | [0005-longest-palindromic-substring](https://github.com/MilanM002005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/MilanM002005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/MilanM002005/DSA/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
