@@ -29,6 +29,7 @@ Technical training
 | [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
+| [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
@@ -61,6 +62,7 @@ Technical training
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MilanM002005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MilanM002005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -76,6 +78,7 @@ Technical training
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
@@ -113,6 +116,7 @@ Technical training
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MilanM002005/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
