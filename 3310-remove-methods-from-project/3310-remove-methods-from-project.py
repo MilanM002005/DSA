@@ -1,28 +1,30 @@
 class Solution:
-    def remainingMethods(
-        self, n: int, k: int, invocations: List[List[int]]
-    ) -> List[int]:
+    def remainingMethods(self, n: int, k: int, invocations: List[List[int]]) -> List[int]:
         graph = [[] for _ in range(n)]
+        indegree = [0] * n
 
-        for caller, called in invocations:
-            graph[caller].append(called)
+        for a, b in invocations:
+            graph[a].append(b)
+            indegree[b] += 1
 
-        suspicious = [False] * n
-        suspicious[k] = True
-        queue = [k]
-        index = 0
+        stack = []
+        stack.append(k)
+        visited = [False] * n
+        visited[k] = True
 
-        while index < len(queue):
-            method = queue[index]
-            index += 1
+        while stack:
+            node = stack.pop()
 
-            for called in graph[method]:
-                if not suspicious[called]:
-                    suspicious[called] = True
-                    queue.append(called)
+            for child in graph[node]:
+                if not visited[child]:
+                    visited[child] = True
+                    stack.append(child)
+                
+                indegree[child] -= 1
 
-        for caller, called in invocations:
-            if not suspicious[caller] and suspicious[called]:
-                return list(range(n))
+        for node in range(n):
+            if visited[node]:
+                if indegree[node] > 0:
+                    return list(range(n))
 
-        return [method for method in range(n) if not suspicious[method]]
+        return [node for node in range(n) if not visited[node]]
