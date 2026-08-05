@@ -18,6 +18,7 @@ Technical training
 | [0032-longest-valid-parentheses](https://github.com/MilanM002005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/MilanM002005/DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -27,6 +28,7 @@ Technical training
 | [0053-maximum-subarray](https://github.com/MilanM002005/DSA/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
@@ -129,6 +131,7 @@ Technical training
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
