@@ -24,6 +24,7 @@ Technical training
 | [0005-longest-palindromic-substring](https://github.com/MilanM002005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/MilanM002005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/MilanM002005/DSA/tree/master/0053-maximum-subarray) |
+| [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
 ## Array
@@ -68,6 +69,7 @@ Technical training
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -132,9 +134,18 @@ Technical training
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [3310-remove-methods-from-project](https://github.com/MilanM002005/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/MilanM002005/DSA/tree/master/3310-remove-methods-from-project) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
