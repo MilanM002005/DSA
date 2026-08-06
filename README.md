@@ -11,6 +11,7 @@ Technical training
 | [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/MilanM002005/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/MilanM002005/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Technical training
 | [0038-count-and-say](https://github.com/MilanM002005/DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/MilanM002005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/MilanM002005/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
