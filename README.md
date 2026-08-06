@@ -9,6 +9,7 @@ Technical training
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MilanM002005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Technical training
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MilanM002005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MilanM002005/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
@@ -98,6 +100,7 @@ Technical training
 |  |
 | ------- |
 | [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/MilanM002005/DSA/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -189,4 +192,12 @@ Technical training
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
