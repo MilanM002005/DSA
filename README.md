@@ -9,6 +9,7 @@ Technical training
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MilanM002005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/MilanM002005/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 ## String
 |  |
@@ -122,6 +123,7 @@ Technical training
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MilanM002005/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/MilanM002005/DSA/tree/master/0061-rotate-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
