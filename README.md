@@ -61,6 +61,7 @@ Technical training
 | [0217-contains-duplicate](https://github.com/MilanM002005/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
+| [0704-binary-search](https://github.com/MilanM002005/DSA/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
@@ -141,6 +142,7 @@ Technical training
 | [0004-median-of-two-sorted-arrays](https://github.com/MilanM002005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MilanM002005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/MilanM002005/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
