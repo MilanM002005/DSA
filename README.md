@@ -28,6 +28,7 @@ Technical training
 | [0242-valid-anagram](https://github.com/MilanM002005/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MilanM002005/DSA/tree/master/0290-word-pattern) |
 | [0583-delete-operation-for-two-strings](https://github.com/MilanM002005/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0709-to-lower-case](https://github.com/MilanM002005/DSA/tree/master/0709-to-lower-case) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MilanM002005/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MilanM002005/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
