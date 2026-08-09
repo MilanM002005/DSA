@@ -25,6 +25,7 @@ Technical training
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/MilanM002005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MilanM002005/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/MilanM002005/DSA/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/MilanM002005/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MilanM002005/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -82,6 +83,7 @@ Technical training
 | [0003-longest-substring-without-repeating-characters](https://github.com/MilanM002005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/MilanM002005/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MilanM002005/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MilanM002005/DSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -123,6 +125,7 @@ Technical training
 | [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/MilanM002005/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MilanM002005/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/MilanM002005/DSA/tree/master/3731-find-missing-elements) |
