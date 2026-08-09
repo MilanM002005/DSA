@@ -111,6 +111,7 @@ Technical training
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
+| [0728-self-dividing-numbers](https://github.com/MilanM002005/DSA/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
