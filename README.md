@@ -40,6 +40,7 @@ Technical training
 | [0053-maximum-subarray](https://github.com/MilanM002005/DSA/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/MilanM002005/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
@@ -108,6 +109,7 @@ Technical training
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/MilanM002005/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
@@ -259,4 +261,16 @@ Technical training
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/MilanM002005/DSA/tree/master/1510-stone-game-iv) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/MilanM002005/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/MilanM002005/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/MilanM002005/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
