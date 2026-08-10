@@ -57,6 +57,7 @@ Technical training
 | [0004-median-of-two-sorted-arrays](https://github.com/MilanM002005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MilanM002005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/MilanM002005/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MilanM002005/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
@@ -185,6 +186,7 @@ Technical training
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/MilanM002005/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MilanM002005/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
