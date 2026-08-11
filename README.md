@@ -60,6 +60,7 @@ Technical training
 | [0039-combination-sum](https://github.com/MilanM002005/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MilanM002005/DSA/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/MilanM002005/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
 | [0217-contains-duplicate](https://github.com/MilanM002005/DSA/tree/master/0217-contains-duplicate) |
