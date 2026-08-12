@@ -42,6 +42,7 @@ Technical training
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/MilanM002005/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
+| [0221-maximal-square](https://github.com/MilanM002005/DSA/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
@@ -64,6 +65,7 @@ Technical training
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
 | [0217-contains-duplicate](https://github.com/MilanM002005/DSA/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/MilanM002005/DSA/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/MilanM002005/DSA/tree/master/0704-binary-search) |
@@ -81,6 +83,7 @@ Technical training
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/MilanM002005/DSA/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
