@@ -65,6 +65,7 @@ Technical training
 | [0053-maximum-subarray](https://github.com/MilanM002005/DSA/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/MilanM002005/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MilanM002005/DSA/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
 | [0217-contains-duplicate](https://github.com/MilanM002005/DSA/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/MilanM002005/DSA/tree/master/0221-maximal-square) |
@@ -203,6 +204,7 @@ Technical training
 | ------- |
 | [0039-combination-sum](https://github.com/MilanM002005/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/MilanM002005/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MilanM002005/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Algorithm X
@@ -269,6 +271,7 @@ Technical training
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MilanM002005/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 ## Nim Game
 |  |
