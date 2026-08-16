@@ -78,6 +78,7 @@ Technical training
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MilanM002005/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MilanM002005/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -135,12 +136,14 @@ Technical training
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/MilanM002005/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MilanM002005/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MilanM002005/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MilanM002005/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MilanM002005/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -202,6 +205,7 @@ Technical training
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/MilanM002005/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -254,12 +258,14 @@ Technical training
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MilanM002005/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MilanM002005/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
@@ -282,6 +288,7 @@ Technical training
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/MilanM002005/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -308,4 +315,8 @@ Technical training
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MilanM002005/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
