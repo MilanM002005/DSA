@@ -48,6 +48,7 @@ Technical training
 | [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/MilanM002005/DSA/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/MilanM002005/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
@@ -73,6 +74,7 @@ Technical training
 | [0221-maximal-square](https://github.com/MilanM002005/DSA/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/MilanM002005/DSA/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/MilanM002005/DSA/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
@@ -217,6 +219,7 @@ Technical training
 | [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MilanM002005/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/MilanM002005/DSA/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MilanM002005/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Algorithm X
 |  |
@@ -240,6 +243,7 @@ Technical training
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/MilanM002005/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -323,4 +327,8 @@ Technical training
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/MilanM002005/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
