@@ -24,6 +24,7 @@ Technical training
 | [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/MilanM002005/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/MilanM002005/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/MilanM002005/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MilanM002005/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MilanM002005/DSA/tree/master/0290-word-pattern) |
@@ -71,6 +72,7 @@ Technical training
 | [0078-subsets](https://github.com/MilanM002005/DSA/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MilanM002005/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/MilanM002005/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/MilanM002005/DSA/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/MilanM002005/DSA/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
@@ -152,6 +154,7 @@ Technical training
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/MilanM002005/DSA/tree/master/0179-largest-number) |
 | [1386-cinema-seat-allocation](https://github.com/MilanM002005/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -162,6 +165,7 @@ Technical training
 | ------- |
 | [0018-4sum](https://github.com/MilanM002005/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/MilanM002005/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/MilanM002005/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MilanM002005/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
