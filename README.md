@@ -81,6 +81,7 @@ Technical training
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/MilanM002005/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/MilanM002005/DSA/tree/master/1563-stone-game-v) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -112,6 +113,7 @@ Technical training
 | [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/MilanM002005/DSA/tree/master/0290-word-pattern) |
+| [1386-cinema-seat-allocation](https://github.com/MilanM002005/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MilanM002005/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -150,6 +152,7 @@ Technical training
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/MilanM002005/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MilanM002005/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -295,6 +298,7 @@ Technical training
 | [0078-subsets](https://github.com/MilanM002005/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [0526-beautiful-arrangement](https://github.com/MilanM002005/DSA/tree/master/0526-beautiful-arrangement) |
+| [1386-cinema-seat-allocation](https://github.com/MilanM002005/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MilanM002005/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
