@@ -359,4 +359,8 @@ Technical training
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MilanM002005/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/MilanM002005/DSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
