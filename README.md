@@ -193,6 +193,7 @@ Technical training
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MilanM002005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MilanM002005/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/MilanM002005/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/MilanM002005/DSA/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MilanM002005/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
@@ -367,4 +368,8 @@ Technical training
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/MilanM002005/DSA/tree/master/0196-delete-duplicate-emails) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MilanM002005/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
