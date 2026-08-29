@@ -83,6 +83,7 @@ Technical training
 | [0494-target-sum](https://github.com/MilanM002005/DSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/MilanM002005/DSA/tree/master/0526-beautiful-arrangement) |
 | [0704-binary-search](https://github.com/MilanM002005/DSA/tree/master/0704-binary-search) |
+| [0812-largest-triangle-area](https://github.com/MilanM002005/DSA/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
@@ -148,6 +149,7 @@ Technical training
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/MilanM002005/DSA/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/MilanM002005/DSA/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MilanM002005/DSA/tree/master/1406-stone-game-iii) |
@@ -374,4 +376,12 @@ Technical training
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MilanM002005/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/MilanM002005/DSA/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/MilanM002005/DSA/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
