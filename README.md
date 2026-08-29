@@ -84,6 +84,7 @@ Technical training
 | [0526-beautiful-arrangement](https://github.com/MilanM002005/DSA/tree/master/0526-beautiful-arrangement) |
 | [0704-binary-search](https://github.com/MilanM002005/DSA/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/MilanM002005/DSA/tree/master/0812-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/MilanM002005/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
@@ -106,10 +107,12 @@ Technical training
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/MilanM002005/DSA/tree/master/0221-maximal-square) |
+| [0867-transpose-matrix](https://github.com/MilanM002005/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/MilanM002005/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MilanM002005/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
