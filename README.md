@@ -13,6 +13,7 @@ Technical training
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/MilanM002005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/MilanM002005/DSA/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/MilanM002005/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MilanM002005/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -214,6 +215,7 @@ Technical training
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MilanM002005/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/MilanM002005/DSA/tree/master/0061-rotate-list) |
+| [0876-middle-of-the-linked-list](https://github.com/MilanM002005/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
