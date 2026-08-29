@@ -12,6 +12,7 @@ Technical training
 | [0061-rotate-list](https://github.com/MilanM002005/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/MilanM002005/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/MilanM002005/DSA/tree/master/0541-reverse-string-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MilanM002005/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -28,6 +29,7 @@ Technical training
 | [0205-isomorphic-strings](https://github.com/MilanM002005/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MilanM002005/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MilanM002005/DSA/tree/master/0290-word-pattern) |
+| [0541-reverse-string-ii](https://github.com/MilanM002005/DSA/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/MilanM002005/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/MilanM002005/DSA/tree/master/0709-to-lower-case) |
 | [1927-sum-game](https://github.com/MilanM002005/DSA/tree/master/1927-sum-game) |
