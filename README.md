@@ -23,6 +23,7 @@ Technical training
 | [0006-zigzag-conversion](https://github.com/MilanM002005/DSA/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/MilanM002005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/MilanM002005/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/MilanM002005/DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/MilanM002005/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -115,6 +116,7 @@ Technical training
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MilanM002005/DSA/tree/master/0043-multiply-strings) |
 | [0867-transpose-matrix](https://github.com/MilanM002005/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/MilanM002005/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MilanM002005/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -149,6 +151,7 @@ Technical training
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MilanM002005/DSA/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/MilanM002005/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
