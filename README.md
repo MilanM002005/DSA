@@ -45,6 +45,7 @@ Technical training
 | [0005-longest-palindromic-substring](https://github.com/MilanM002005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/MilanM002005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/MilanM002005/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/MilanM002005/DSA/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/MilanM002005/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -71,6 +72,7 @@ Technical training
 | [0039-combination-sum](https://github.com/MilanM002005/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/MilanM002005/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MilanM002005/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/MilanM002005/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/MilanM002005/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/MilanM002005/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MilanM002005/DSA/tree/master/0078-subsets) |
@@ -169,6 +171,7 @@ Technical training
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/MilanM002005/DSA/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/MilanM002005/DSA/tree/master/0179-largest-number) |
 | [1386-cinema-seat-allocation](https://github.com/MilanM002005/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/MilanM002005/DSA/tree/master/1927-sum-game) |
