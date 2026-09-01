@@ -1,6 +1,7 @@
 # DSA
 
 Technical training 
+when I get bored, I do some LeetCode hard problems because regular boredom wasn't causing enough emotional damage.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
