@@ -107,6 +107,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MilanM002005/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MilanM002005/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/MilanM002005/DSA/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/MilanM002005/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -149,6 +150,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | ------- |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [3903-smallest-stable-index-i](https://github.com/MilanM002005/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
