@@ -109,6 +109,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [3731-find-missing-elements](https://github.com/MilanM002005/DSA/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MilanM002005/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MilanM002005/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/MilanM002005/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +153,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3903-smallest-stable-index-i](https://github.com/MilanM002005/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/MilanM002005/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
