@@ -107,6 +107,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MilanM002005/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MilanM002005/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/MilanM002005/DSA/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MilanM002005/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MilanM002005/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MilanM002005/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/MilanM002005/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -177,6 +178,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [3345-smallest-divisible-digit-product-i](https://github.com/MilanM002005/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MilanM002005/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MilanM002005/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MilanM002005/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MilanM002005/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
