@@ -26,6 +26,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [0038-count-and-say](https://github.com/MilanM002005/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/MilanM002005/DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/MilanM002005/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/MilanM002005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/MilanM002005/DSA/tree/master/0179-largest-number) |
@@ -51,6 +52,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [0072-edit-distance](https://github.com/MilanM002005/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/MilanM002005/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/MilanM002005/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/MilanM002005/DSA/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
