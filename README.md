@@ -399,6 +399,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/MilanM002005/DSA/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/MilanM002005/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/MilanM002005/DSA/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/MilanM002005/DSA/tree/master/0196-delete-duplicate-emails) |
