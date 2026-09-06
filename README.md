@@ -29,6 +29,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [0115-distinct-subsequences](https://github.com/MilanM002005/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/MilanM002005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/MilanM002005/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/MilanM002005/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MilanM002005/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/MilanM002005/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MilanM002005/DSA/tree/master/0242-valid-anagram) |
@@ -164,6 +165,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | ------- |
 | [0043-multiply-strings](https://github.com/MilanM002005/DSA/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/MilanM002005/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0171-excel-sheet-column-number](https://github.com/MilanM002005/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
