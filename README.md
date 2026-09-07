@@ -240,6 +240,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [0023-merge-k-sorted-lists](https://github.com/MilanM002005/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/MilanM002005/DSA/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MilanM002005/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MilanM002005/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
