@@ -101,6 +101,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [1563-stone-game-v](https://github.com/MilanM002005/DSA/tree/master/1563-stone-game-v) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MilanM002005/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MilanM002005/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MilanM002005/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2784-check-if-array-is-good](https://github.com/MilanM002005/DSA/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MilanM002005/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -195,6 +196,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [1386-cinema-seat-allocation](https://github.com/MilanM002005/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/MilanM002005/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MilanM002005/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MilanM002005/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MilanM002005/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
