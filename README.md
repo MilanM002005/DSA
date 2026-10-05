@@ -37,6 +37,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [0541-reverse-string-ii](https://github.com/MilanM002005/DSA/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/MilanM002005/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/MilanM002005/DSA/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/MilanM002005/DSA/tree/master/0856-score-of-parentheses) |
 | [1927-sum-game](https://github.com/MilanM002005/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MilanM002005/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MilanM002005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -260,6 +261,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MilanM002005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/MilanM002005/DSA/tree/master/0085-maximal-rectangle) |
+| [0856-score-of-parentheses](https://github.com/MilanM002005/DSA/tree/master/0856-score-of-parentheses) |
 ## Game Theory
 |  |
 | ------- |
@@ -425,4 +427,8 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/MilanM002005/DSA/tree/master/0812-largest-triangle-area) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/MilanM002005/DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
