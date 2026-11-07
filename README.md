@@ -174,6 +174,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 | [0264-ugly-number-ii](https://github.com/MilanM002005/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MilanM002005/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/MilanM002005/DSA/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/MilanM002005/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/MilanM002005/DSA/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/MilanM002005/DSA/tree/master/0812-largest-triangle-area) |
@@ -265,6 +266,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MilanM002005/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MilanM002005/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
@@ -326,6 +328,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MilanM002005/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/MilanM002005/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/MilanM002005/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MilanM002005/DSA/tree/master/1510-stone-game-iv) |
@@ -363,6 +366,7 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MilanM002005/DSA/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/MilanM002005/DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/MilanM002005/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -432,4 +436,12 @@ when I get bored, I do some LeetCode hard problems because regular boredom wasn'
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/MilanM002005/DSA/tree/master/0856-score-of-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MilanM002005/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MilanM002005/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
